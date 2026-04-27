@@ -72,6 +72,4 @@ Deep dive into the EV market composition:
 This analysis is based on the publicly available **Electric Vehicle Population Dataset** from Washington State — tracking all registered EVs with attributes including make, model, type, range, and city of registration.
 
 
----
 
-*⭐ If you found this useful, feel free to star the repo!*
